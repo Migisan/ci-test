@@ -1,0 +1,11 @@
+{
+  "name": "ci-test",
+  "author": "test user",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "26.1.0"
+  }
+}
